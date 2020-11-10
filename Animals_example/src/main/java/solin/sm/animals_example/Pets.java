@@ -83,6 +83,11 @@ public class Pets implements Animal{
         System.out.println("Resting");
     }
     
+	public void run(){
+        System.out.println("Running");
+    }
+	
+	
     //Overload
     public int speed(){
         int speed = 2;
