@@ -1,5 +1,6 @@
 # Animal_Example
 This Repository created For Assignment 3 - SWEN 6301 using Java
+This Project Created on Maven Java.
 
 ## Question:
 Design a few classes which relate to a one concept as follows:
@@ -16,6 +17,7 @@ Design a few classes which relate to a one concept as follows:
 4. Polymorphim
 5. Data Coupling
 6. Stamp coupling
+7. Main file to run code
 
 ## Notes:
 You can find comments in code to help you with complex meanings
@@ -25,9 +27,11 @@ There are two logic in this code:
     - Super Class is (Pet Class)
     - Child Class is (Birds Class)
     - Class Birds inheritance from Super class Pet.
+    - Main Class is (MainAnimals)
 
 
 2. Inheritance from Interface (implements)
     - Animal is the Interface.
     - Classes (Cats & Dogs) are implements From the Interface (Animal)
     - Class (Pet_Friend) contain Data & Stamp Coupling examples.
+    - Main Class is (MainAnimals)
