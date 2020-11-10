@@ -22,11 +22,12 @@ You can find comments in code to help you with complex meanings
 
 There are two logic in this code:
 1. Inheritance From Super Class.. (extends)
-  - Super Class is (Pet Class)
-  - Child Class is (Birds Class)
-  - Class Birds inheritance from Super class Pet.
+    - Super Class is (Pet Class)
+    - Child Class is (Birds Class)
+    - Class Birds inheritance from Super class Pet.
+
 
 2. Inheritance from Interface (implements)
-  - Animal is the Interface.
-  - Classes (Cats & Dogs) are implements From the Interface (Animal)
-  - Class (Pet_Friend) contain Data & Stamp Coupling examples.
+    - Animal is the Interface.
+    - Classes (Cats & Dogs) are implements From the Interface (Animal)
+    - Class (Pet_Friend) contain Data & Stamp Coupling examples.
