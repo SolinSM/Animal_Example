@@ -36,6 +36,8 @@ public class MainAnimals {
         System.out.println(c.toString());
         
         // We can do same to Dogs
+        
+        
         System.out.println("===================================");
         System.out.println("Test Pet_fiend class\n");
         
@@ -43,6 +45,7 @@ public class MainAnimals {
         p_friend.setA(a_cat);
         p_friend.startWalk();
         p_friend.catName(c);
+        
         
         System.out.println("===================================");
         System.out.println("Test Pets & Birds classes\n");
