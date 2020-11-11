@@ -1,6 +1,9 @@
 # Animal_Example
 This Repository created For Assignment 3 - SWEN 6301 using Java
-This Project Created on Maven Java.
+**"Animals_example Folder"** This Project Created on Maven Java.
+**"HW3_Animal_Example Folder"** This Project Created on Java Application.
+
+** Please visit the (HW3_Animal_Example) Folder It is with full comments & the way 2 is better.
 
 ## Question:
 Design a few classes which relate to a one concept as follows:
@@ -24,13 +27,18 @@ You can find comments in code to help you with complex meanings
 
 There are two logic in this code:
 1. Inheritance from Interface (implements)
-    - Animal is the Interface.
-    - Classes (Cats & Dogs) are implements From the Interface (Animal)
+    - Animal_Interface is the Interface.
+    - Classes (Cat & Dog) are implements From the Interface (Animal_Interface)
     - Class (Pet_Friend) contain Data & Stamp Coupling examples.
-    - Main Class is (MainAnimals)
+    - Main Class is (HW3_Animal_Example)
 
 2. Inheritance From Super Class.. (extends)
     - Super Class is (Pets Class)
-    - Child Class is (Birds Class)
-    - Class Birds inheritance from Super class Pets.
-    - Main Class is (MainAnimals)
+    - Child Class is (Bird Class)
+    - Class Bird inheritance from Super class Pets.
+    - Class Pets implement from Animal_Interface Interface.
+    - Main Class is (HW3_Animal_Example)
+
+
+## The result of code:
+![Result Code](https://github.com/SolinSM/Animal_Example/blob/main/result%20HW3_Animal_Example.PNG)
